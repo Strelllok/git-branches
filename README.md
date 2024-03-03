@@ -116,3 +116,4 @@ git mv oldNameFile newNameFile - переиминовать
 git rm fileName - удалить выбраный файл
 
 git mv fileName whear/fileName - перенести в указанную директорию
+все это надо знать
